@@ -22,3 +22,6 @@ It performs basic arithmetic operations: addition, subtraction, multiplication, 
 - **JavaScript**
 
 ---
+Github pages link : 
+
+https://subhadarshini24.github.io/Task-1_Calculator/
